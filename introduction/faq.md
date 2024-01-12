@@ -17,7 +17,7 @@ title: Frequently asked questions (FAQ)
 
 ## General & Security
 
-### What is Qubes OS?
+### What is Qubes OS? 1
 
 Qubes OS is a security-focused operating system that allows you to organize your digital life into compartments called "qubes." If one qube is compromised, the others remain safe, so a single cyberattack can no longer take down your entire digital life in one fell swoop. You can think of using Qubes OS as having many different computers on your desk for different activities but with the convenience of a single physical machine, a single unified desktop environment, and a set of tools for using qubes together securely as parts of a unified system.
 
